@@ -39,6 +39,11 @@
             font-size: 1.5rem;
             transition: all 0.25s ease;
 
+            a{
+                text-decoration: none;
+            }
+            
+
                 &:hover {
                     background: none;
                     border: 2px solid $very-light-gray;
